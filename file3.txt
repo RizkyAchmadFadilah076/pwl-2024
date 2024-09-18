@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 perubahan ini dilakukan di cabang master
+=======
+nge test cabang1 di file 3
+>>>>>>> cabang1
